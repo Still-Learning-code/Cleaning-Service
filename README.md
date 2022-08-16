@@ -1,2 +1,2 @@
-# Hard-ware-store
+#Cleaning business 
 proposal for Web site / logo 
