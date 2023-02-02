@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>You've Landed at Clean'd Today</title>
+      <header>https://www.Clean'd Today.com>cleaning -service-DC</header>
+        <style>
+            body{
+                background-color:gray;
+                text-align:center;
+                font-family:cursive;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="font-size:60px"><span style="color:Yellow">Residental-</span><span style="color:#036600">Commercial</span></h1>
+      <p>Any-Size Any-Time</p>
+        
+
+    </body>
+</html>
+
